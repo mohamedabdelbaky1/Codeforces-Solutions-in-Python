@@ -1,3 +1,6 @@
+# Author : Mohamed Abdelbaky 
+# Problem Link : https://codeforces.com/contest/268/problem/A
+
 def count_games(n :int , teams:list[tuple]) -> int :
     """
     This is a function to count how many times the host team puts on the guest uniform 
